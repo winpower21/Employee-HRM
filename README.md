@@ -9,6 +9,13 @@ This is a Employee HRM platform built using:
 - Docker Compose
 - git
 
+# Instructions
+Clone the repository:
+`git clone https://github.com/winpower21/Employee-HRM.git`
+
+Start the app in docker:
+`docker compose up`
+
 # Design Decisions
 The core technologies (React, FastAPI, PostgreSQL) were predefined. 
 The following design decisions focus on how the system was structured, organized, and implemented on top of these technologies.
