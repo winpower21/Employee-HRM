@@ -96,4 +96,4 @@ These design decisions were made to ensure a balance between scalability, mainta
 
 
 # AI Usage
-AI was used to improve page styling and understanding React (this is my first react project). All other code was written manually.
+AI was used to improve frontend styling and understanding React (this is my first react project). All other code was written manually.
