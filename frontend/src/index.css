@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+    overflow: hidden;
+}
+
+#HeroContent {
+    padding: 80px 0px 0px 0px;
+    max-height: calc(100vh - 80px);
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* No padding-top here on the navbar */
+}
+
+@layer base {
+    button:not([disabled]),
+    [role="button"]:not([disabled]) {
+        cursor: pointer;
+    }
+}
