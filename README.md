@@ -16,6 +16,9 @@ Clone the repository:
 Start the app in docker:
 `docker compose up`
 
+Access the frontend at:
+`localhost:3000`
+
 # Design Decisions
 The core technologies (React, FastAPI, PostgreSQL) were predefined. 
 The following design decisions focus on how the system was structured, organized, and implemented on top of these technologies.
